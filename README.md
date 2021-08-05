@@ -5,4 +5,4 @@ MATLAB convolutional neural network for computing drag, based off of the work do
 
 Research done by Hugh Easton, Student Researcher and Michaela Kubacki, Assistant Professor of Mathematics - Middlebury College, Summer 2021
 
-Includes subfolder with files used for MATLAB custom training loop (these do not work). Instead use data set, dragPreprocess.m, dragMaster.m and dragGraph.m files for the training of an accurate network. 
+Includes branch with files used for MATLAB custom training loop (these do not work). Instead use data set, dragPreprocess.m, dragMaster.m and dragGraph.m files for the training of an accurate network. 
